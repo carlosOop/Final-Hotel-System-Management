@@ -1,0 +1,10 @@
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\bin\Debug\BAGONG GAWA.exe.config
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\bin\Debug\BAGONG GAWA.exe
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\bin\Debug\BAGONG GAWA.pdb
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\obj\Debug\BAGONG GAWA.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\obj\Debug\BAGONG_GAWA.Form1.resources
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\obj\Debug\BAGONG_GAWA.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\obj\Debug\BAGONG GAWA.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\obj\Debug\BAGONG GAWA.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\obj\Debug\BAGONG GAWA.exe
+C:\Users\admin\OneDrive\Desktop\Final OOP(ITO HA)\Main Folder\Asusula\BAGONG GAWA\BAGONG GAWA\obj\Debug\BAGONG GAWA.pdb

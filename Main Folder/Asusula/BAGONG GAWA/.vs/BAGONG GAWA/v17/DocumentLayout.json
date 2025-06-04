@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Final OOP(ITO HA)\\Main Folder\\Asusula\\BAGONG GAWA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA6AC83-D2DF-4A41-A99E-DB69A563EC89}|BAGONG GAWA\\BAGONG GAWA.csproj|c:\\users\\admin\\onedrive\\desktop\\final oop(ito ha)\\main folder\\asusula\\bagong gawa\\bagong gawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DA6AC83-D2DF-4A41-A99E-DB69A563EC89}|BAGONG GAWA\\BAGONG GAWA.csproj|solutionrelative:bagong gawa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Final OOP(ITO HA)\\Main Folder\\Asusula\\BAGONG GAWA\\BAGONG GAWA\\Form1.cs",
+              "RelativeDocumentMoniker": "BAGONG GAWA\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Final OOP(ITO HA)\\Main Folder\\Asusula\\BAGONG GAWA\\BAGONG GAWA\\Form1.cs [Design]",
+              "RelativeToolTip": "BAGONG GAWA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:32:22.886Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

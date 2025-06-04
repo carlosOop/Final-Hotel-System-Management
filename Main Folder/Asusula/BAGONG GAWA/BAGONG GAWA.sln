@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAGONG GAWA", "BAGONG GAWA\BAGONG GAWA.csproj", "{4DA6AC83-D2DF-4A41-A99E-DB69A563EC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA6AC83-D2DF-4A41-A99E-DB69A563EC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA6AC83-D2DF-4A41-A99E-DB69A563EC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA6AC83-D2DF-4A41-A99E-DB69A563EC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA6AC83-D2DF-4A41-A99E-DB69A563EC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E57EE8-5049-4A2E-A7D0-3D17AD0D8E28}
+	EndGlobalSection
+EndGlobal
