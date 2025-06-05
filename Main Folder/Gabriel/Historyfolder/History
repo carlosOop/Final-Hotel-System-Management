@@ -1,0 +1,123 @@
+<style>
+    .nav-bar {
+        background-color: #f0f0f0;
+        padding: 10px 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .nav-tabs a {
+        margin: 0 10px;
+        padding: 10px 20px;
+        text-decoration: none;
+        color: black;
+        border-radius: 20px;
+    }
+
+    .nav-tabs a.active {
+        background-color: green;
+        color: white;
+    }
+
+    .filter-bar {
+        background-color: #d3d3d3;
+        padding: 10px 20px;
+        margin-top: 10px;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .filter-bar select {
+        margin-left: 10px;
+    }
+
+    .table-container {
+        background-color: #e8e8e8;
+        padding: 15px;
+        border-radius: 8px;
+        margin-top: 10px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+
+    table thead tr {
+        background-color: #f8f8cc;
+        text-align: left;
+    }
+
+    table, th, td {
+        border: 1px solid #bbb;
+        padding: 8px;
+    }
+</style>
+
+<div class="nav-bar">
+    <div class="nav-tabs">
+        <a href="#" class="logo-button">Logo</a>
+        <a href="#" class="">System Name</a>
+        <a href="/Customer/History" class="active">History</a>
+        <a href="/Customer/ManageRoom">Manage Room</a>
+        <a href="#">Customer Registration</a>
+        <a href="#">Check Out</a>
+    </div>
+    <div class="profile-icon">
+        <img src="~/images/profile-icon.png" alt="Profile" width="32" height="32" />
+    </div>
+</div>
+
+<div class="filter-bar">
+    Search By:
+    <form method="get" asp-action="History" asp-controller="Customer" style="display: inline;">
+        <select name="filter" onchange="this.form.submit()">
+            <option value="All" @(currentFilter == "All" ? "selected" : "")>All Customer History</option>
+            <option value="InHotel" @(currentFilter == "InHotel" ? "selected" : "")>Customer in Hotel</option>
+            <option value="CheckedOut" @(currentFilter == "CheckedOut" ? "selected" : "")>Check Out Customer</option>
+        </select>
+    </form>
+</div>
+
+<div class="table-container">
+    <h3>History</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Room Number</th>
+                <th>Room Type</th>
+                <th>Bed</th>
+                <th>Price</th>
+                <th>Mobile No.</th>
+                <th>Nationality</th>
+                <th>Gender</th>
+                <th>Address</th>
+                <th>Date of Birth</th>
+                <th>In Date</th>
+                <th>Out Date</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+                <tr>
+                    <td>@customer.Name</td>
+                    <td>@customer.RoomNumber</td>
+                    <td>@customer.RoomType</td>
+                    <td>@customer.Bed</td>
+                    <td>@customer.Price</td>
+                    <td>@customer.MobileNo</td>
+                    <td>@customer.Nationality</td>
+                    <td>@customer.Gender</td>
+                    <td>@customer.Address</td>
+                    <td>@customer.DateOfBirth.ToString("MM/dd/yyyy")</td>
+                    <td>@customer.InDate.ToString("MM/dd/yyyy")</td>
+                    <td>@customer.OutDate.ToString("MM/dd/yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
