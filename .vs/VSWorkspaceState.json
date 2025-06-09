@@ -2,7 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Main Folder",
-    "\\Main Folder\\Asusula"
+    "\\Main Folder\\Asusula",
+    "\\Main Folder\\Asusula\\Booking_User-Control",
+    "\\Main Folder\\Asusula\\Booking_User-Control\\packages",
+    "\\Main Folder\\Asusula\\Booking_User-Control\\packages\\Guna.UI2.WinForms.2.0.4.7",
+    "\\Main Folder\\Asusula\\Booking_User-Control\\WindowsFormsApp1",
+    "\\Main Folder\\Gabriel",
+    "\\Main Folder\\Gabriel\\editdelete",
+    "\\Main Folder\\Gabriel\\Historyfolder"
   ],
+  "SelectedNode": "\\Main Folder\\Gabriel\\editdelete\\Main page",
   "PreviewInSolutionExplorer": false
 }
